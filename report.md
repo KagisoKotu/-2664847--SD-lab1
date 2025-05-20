@@ -24,7 +24,7 @@ The aim of this lab was to introduce students to the structure and use of basic 
 
 ### ✅ 1. Created Repository
 - A new GitHub repository was created:  
-  `KagisoKotu-lab1-sd-25`.
+  `2664847-lab1-sd-25`.
 
 ### ✅ 2. Created and Edited `index.html`
 - Added a basic HTML file named `index.html`.
